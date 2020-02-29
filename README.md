@@ -1,5 +1,5 @@
 # churn_DetRet
-Telecom Customer Churn Detection and Retention
+Telecom Customer Churn Detection and Retention.\n
 The model is accurate enough to give 80% correct results in testing phase.
 
 # Requisites
